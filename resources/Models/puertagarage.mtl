@@ -1,0 +1,18 @@
+newmtl puertagarage:Arc001SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 62.00
+map_Kd texturacero.jpg
+newmtl puertagarage:Box001SG
+illum 4
+Kd 0.04 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+map_Kd texturacero.jpg

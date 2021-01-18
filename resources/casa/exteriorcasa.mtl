@@ -1,0 +1,163 @@
+newmtl patiocasa:Spot_pol_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaluces.jpg
+Ni 1.00
+Ks 0.39 0.39 0.39
+Ns 179.02
+newmtl patiocasa:initialShadingGroup4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturapasto.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturacemento.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup63
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup79
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturanacar.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup95
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup97
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup111
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup113
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup115
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup117
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup119
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturacemento.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup121
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup123
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturazulsilla.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup145
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup147
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup149
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup151
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup153
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup155
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup157
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl patiocasa:initialShadingGroup161
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00

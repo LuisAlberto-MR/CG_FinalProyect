@@ -1,0 +1,149 @@
+newmtl interiorcasa:Object002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gris_rayado.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl interiorcasa:Object002SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl interiorcasa:Object002SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl interiorcasa:Object003SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol.jpg
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 1022.00
+newmtl interiorcasa:Object003SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 1022.00
+newmtl interiorcasa:Object003_ncl1_1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 510.00
+newmtl interiorcasa:Object003_ncl1_1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 510.00
+newmtl interiorcasa:Plane006SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd white.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl interiorcasa:Plane006SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd white.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl interiorcasa:Plane014SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bosch.jpg
+Ni 1.00
+Ks 0.68 0.68 0.68
+Ns 1022.00
+newmtl interiorcasa:Plane014SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bosch.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns -1.00
+newmtl interiorcasa:Plane014SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bosch.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl interiorcasa:Plane015SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gris_rayado.jpg
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 510.00
+newmtl interiorcasa:Plane016SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd parrilla.jpg
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 126.00
+newmtl interiorcasa:Plane016SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd parrilla.jpg
+Ni 1.00
+Ks 0.39 0.39 0.39
+Ns 722.08
+newmtl interiorcasa:initialShadingGroup12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00

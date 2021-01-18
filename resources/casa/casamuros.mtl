@@ -1,0 +1,287 @@
+newmtl casamuros:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamarmol.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturalfombra.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturacemento.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup54
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturacafe.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup58
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamarmolblanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup60
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup81
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup85
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup91
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup93
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup99
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturacemento.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup101
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamarmolblanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup103
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup139
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup141
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup143
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup159
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup163
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup165
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup174
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup176
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup178
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup180
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup182
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup186
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup194
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup197
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturapiel.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup204
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup217
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamarmolblanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup219
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup229
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamarmolblanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup236
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuros:initialShadingGroup271
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturapiel.jpg
+Ni 1.00
