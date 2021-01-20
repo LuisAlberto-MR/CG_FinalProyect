@@ -39,8 +39,8 @@ void my_input(GLFWwindow *window);
 
 // settings
 // = 16 milisec // 1000 millisec == 1 sec
-const unsigned int SCR_WIDTH = 1280;
-const unsigned int SCR_HEIGHT = 800;
+const unsigned int SCR_WIDTH = 1920;
+const unsigned int SCR_HEIGHT = 1080;
 
 // Camera Position Keys
 /* --------------------------------------- */
@@ -303,7 +303,7 @@ int main()
 		staticShader.setMat4("model", model);
 		puerta_patio.Draw(staticShader);
 
-		// Load Anmimated Objects
+		// Load Car
 		/* -------------------------------------------------- */
 		model = glm::mat4(1.0f);
 		staticShader.setMat4("model", model);
