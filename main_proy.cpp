@@ -410,21 +410,21 @@ void my_input(GLFWwindow* window)
 	/* ------------------------- */
 	// Front Door
 	if (glfwGetKey(window, GLFW_KEY_P) == GLFW_PRESS && 70 > movpuertap)
-		movpuertap += 5.0f;
+		movpuertap += 6.0f;
 	if (glfwGetKey(window, GLFW_KEY_L) == GLFW_PRESS && 0 < movpuertap)
-		movpuertap -= 5.0f;
+		movpuertap -= 6.0f;
 
 	//// Garage Door
 	if (glfwGetKey(window, GLFW_KEY_O) == GLFW_PRESS && 70 > movpuertag)
-		movpuertag += 1.0f;
+		movpuertag += 3.0f;
 	if (glfwGetKey(window, GLFW_KEY_K) == GLFW_PRESS && 0 < movpuertag)
-		movpuertag -= 1.0f;
+		movpuertag -= 3.0f;
 	
 	// Room Door
 	if (glfwGetKey(window, GLFW_KEY_I) == GLFW_PRESS && 90 > movpuertar)
-		movpuertar += 5.0f;
+		movpuertar += 6.0f;
 	if (glfwGetKey(window, GLFW_KEY_J) == GLFW_PRESS && 0 < movpuertar)
-		movpuertar -= 5.0f;
+		movpuertar -= 6.0f;
 	
 	// Backyard Door
 	if (glfwGetKey(window, GLFW_KEY_T) == GLFW_PRESS && 1.5 > movpuertat)
