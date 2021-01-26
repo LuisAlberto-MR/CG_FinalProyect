@@ -1,0 +1,238 @@
+newmtl interiorcasa:initialShadingGroup22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturacafe.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturacafe.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup60
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup73
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup75
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamarmol.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup77
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturavidrio.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup88
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup90
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup95
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup98
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup100
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup122
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturavidrio.png
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup136
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalposte.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup172
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup194
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup197
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturapiel.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup211
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup213
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaroja.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup221
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl interiorcasa:initialShadingGroup227
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl interiorcasa:wire_086086086
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl interiorcasa:wire_086086088
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl interiorcasa:wire_086086090
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl interiorcasa:wire_086086092
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl interiorcasa:wire_086086094
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl interiorcasa:wire_086086096
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl interiorcasa:wire_086086098
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00

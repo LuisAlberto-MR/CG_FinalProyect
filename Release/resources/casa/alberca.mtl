@@ -1,0 +1,87 @@
+newmtl albercaext:Lesenka_bassein_01SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.59 0.59 0.59
+Ns 859.08
+newmtl albercaext:Pliyka_basein_00SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturapiso1.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 88.51
+newmtl albercaext:Pliyka_basein_00SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturapiso1.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 88.51
+newmtl albercaext:Pliyka_basein_00SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturapiso1.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 88.51
+newmtl albercaext:Pliyka_basein_00SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturapiso1.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 88.51
+newmtl albercaext:Pliyka_basein_00SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturazulalberca.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 889.44
+newmtl albercaext:Pliyka_basein_00SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 88.51
+newmtl albercaext:Pliyka_basein_00SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 88.51
+newmtl albercaext:WaterSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.03 0.03 0.03
+map_Kd texturagua.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1022.00
+newmtl albercaext:krygSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturasalvavidas.jpg
+Ni 1.00
+Ks 0.47 0.47 0.47
+Ns 360.04

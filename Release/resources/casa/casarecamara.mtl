@@ -1,0 +1,70 @@
+newmtl casamuebles:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturablanco.jpg
+Ni 1.00
+newmtl casamuebles:initialShadingGroup65
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturacolcha.png
+Ni 1.00
+newmtl casamuebles:initialShadingGroup87
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaonix.jpg
+Ni 1.00
+newmtl casamuebles:initialShadingGroup89
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl casamuebles:initialShadingGroup109
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalescalera.jpg
+Ni 1.00
+newmtl casamuebles:initialShadingGroup111
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametalescalera.jpg
+Ni 1.00
+newmtl casamuebles:initialShadingGroup114
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl casamuebles:initialShadingGroup116
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl casamuebles:initialShadingGroup120
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00
+newmtl casamuebles:initialShadingGroup237
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamadera.jpg
+Ni 1.00

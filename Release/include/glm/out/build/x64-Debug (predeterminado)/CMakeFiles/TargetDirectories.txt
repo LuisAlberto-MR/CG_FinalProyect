@@ -1,0 +1,2 @@
+C:/Users/ezio1/source/repos/Proyecto_Final/Proyecto_Final/include/glm/out/build/x64-Debug (predeterminado)/CMakeFiles/edit_cache.dir
+C:/Users/ezio1/source/repos/Proyecto_Final/Proyecto_Final/include/glm/out/build/x64-Debug (predeterminado)/CMakeFiles/rebuild_cache.dir
