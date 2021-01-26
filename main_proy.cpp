@@ -150,13 +150,14 @@ int main()
 		Model casa_recamara("resources/casa/casarecamara.obj");
 		Model casa_muros("resources/casa/casamuros.obj");
 		Model casa_techo("resources/casa/techo.obj");
+		Model puerta_rec("resources/Models/puertarec.obj");
 
 
-		//load animated objects
-		/* ---------------------------- */
+		////load animated objects
+		///* ---------------------------- */
 		Model puerta_principal("resources/Models/puertav2.obj");
 		Model puerta_garage("resources/Models/puertagarage.obj");
-		Model puerta_recamara("resources/Models/puertarec.obj");
+		Model puerta_recamara("resources/Models/puertarecamara.obj");
 		Model puerta_patio("resources/Models/puertatrasera.obj");
 
 		//load car object
@@ -285,23 +286,38 @@ int main()
 		staticShader.setMat4("model", model);
 		casa_techo.Draw(staticShader);
 
-		// Load Anmimated Objects
-		/* -------------------------------------------------- */
 		model = glm::mat4(1.0f);
+		staticShader.setMat4("model", model);
+		puerta_rec.Draw(staticShader);
+
+		//// Load Anmimated Objects
+		///* -------------------------------------------------- */
+		model = glm::mat4(1.0f);
+		model = glm::translate(model, glm::vec3(-7.9f, 2.1f, 7.11f));
+		model = glm::rotate(model, glm::radians(movpuertap), glm::vec3(0.0f, 1.0f, 0.0f));
 		staticShader.setMat4("model", model);
 		puerta_principal.Draw(staticShader);
 
 		model = glm::mat4(1.0f);
+		model = glm::translate(model, glm::vec3(-0.1f, 3.65f, 7.06f));
+		model = glm::rotate(model, glm::radians(-movpuertag), glm::vec3(1.0f, 0.0f, 0.0f));
+		model = glm::translate(model, glm::vec3(0.0f, movpuertag / 70, 0.0f));
 		staticShader.setMat4("model", model);
 		puerta_garage.Draw(staticShader);
 
 		model = glm::mat4(1.0f);
+		model = glm::translate(model, glm::vec3(-1.51f, 2.17f, -0.62f));
+		model = glm::rotate(model, glm::radians(movpuertar), glm::vec3(0.0f, 1.0f, 0.0f));
 		staticShader.setMat4("model", model);
 		puerta_recamara.Draw(staticShader);
 
+
 		model = glm::mat4(1.0f);
+		model = glm::translate(model, glm::vec3(movpuertat, 0.0f, 0.0f));
 		staticShader.setMat4("model", model);
 		puerta_patio.Draw(staticShader);
+
+
 
 		// Load Car
 		/* -------------------------------------------------- */
@@ -376,16 +392,16 @@ void my_input(GLFWwindow* window)
 		camera.Position.x -= 2.0f;
 		lightPosition.x -= 2.0f;
 	}
-	if (glfwGetKey(window, GLFW_KEY_Q) == GLFW_PRESS)
-	{
-		camera.Position.y += 2.0f;
-		lightPosition.y += 2.0f;
-	}
-	if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS)
-	{
-		camera.Position.y -= 2.0f;
-		lightPosition.y -= 2.0f;
-	}
+	//if (glfwGetKey(window, GLFW_KEY_Q) == GLFW_PRESS)
+	//{
+	//	camera.Position.y += 2.0f;
+	//	lightPosition.y += 2.0f;
+	//}
+	//if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS)
+	//{
+	//	camera.Position.y -= 2.0f;
+	//	lightPosition.y -= 2.0f;
+	//}
 	if (glfwGetKey(window, GLFW_KEY_LEFT_SHIFT) == GLFW_PRESS)
 		camera.MovementSpeed = MovementSpeed * 2.0f;
 		
@@ -393,25 +409,28 @@ void my_input(GLFWwindow* window)
 	//Animation Keys
 	/* ------------------------- */
 	// Front Door
-	//if (glfwGetKey(window, GLFW_KEY_P) == GLFW_PRESS && 90 > movpuertap)
-	//	movpuertap += 1.0f;
-	//if (glfwGetKey(window, GLFW_KEY_L) == GLFW_PRESS && 0 < movpuertap)
-	//	movpuertap -= 1.0f;
+	if (glfwGetKey(window, GLFW_KEY_P) == GLFW_PRESS && 70 > movpuertap)
+		movpuertap += 5.0f;
+	if (glfwGetKey(window, GLFW_KEY_L) == GLFW_PRESS && 0 < movpuertap)
+		movpuertap -= 5.0f;
+
 	//// Garage Door
-	//if (glfwGetKey(window, GLFW_KEY_O) == GLFW_PRESS && 90 > movpuertag)
-	//	movpuertag += 1.0f;
-	//if (glfwGetKey(window, GLFW_KEY_K) == GLFW_PRESS && 0 < movpuertag)
-	//	movpuertag -= 1.0f;
-	//// Room Door
-	//if (glfwGetKey(window, GLFW_KEY_I) == GLFW_PRESS && 90 > movpuertar)
-	//	movpuertar += 1.0f;
-	//if (glfwGetKey(window, GLFW_KEY_J) == GLFW_PRESS && 0 < movpuertar)
-	//	movpuertar -= 1.0f;
-	//// Backyard Door
-	//if (glfwGetKey(window, GLFW_KEY_U) == GLFW_PRESS && 90 > movpuertat)
-	//	movpuertat += 1.0f;
-	//if (glfwGetKey(window, GLFW_KEY_H) == GLFW_PRESS && 0 < movpuertat)
-	//	movpuertat -= 1.0f;
+	if (glfwGetKey(window, GLFW_KEY_O) == GLFW_PRESS && 70 > movpuertag)
+		movpuertag += 1.0f;
+	if (glfwGetKey(window, GLFW_KEY_K) == GLFW_PRESS && 0 < movpuertag)
+		movpuertag -= 1.0f;
+	
+	// Room Door
+	if (glfwGetKey(window, GLFW_KEY_I) == GLFW_PRESS && 90 > movpuertar)
+		movpuertar += 1.0f;
+	if (glfwGetKey(window, GLFW_KEY_J) == GLFW_PRESS && 0 < movpuertar)
+		movpuertar -= 1.0f;
+	
+	// Backyard Door
+	if (glfwGetKey(window, GLFW_KEY_T) == GLFW_PRESS && 1.5 > movpuertat)
+		movpuertat += 0.5f;
+	if (glfwGetKey(window, GLFW_KEY_F) == GLFW_PRESS && 0 < movpuertat)
+		movpuertat -= 0.5f;
 }
 
 // glfw: whenever the window size changed (by OS or user resize) this callback function executes
