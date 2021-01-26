@@ -422,9 +422,9 @@ void my_input(GLFWwindow* window)
 	
 	// Room Door
 	if (glfwGetKey(window, GLFW_KEY_I) == GLFW_PRESS && 90 > movpuertar)
-		movpuertar += 1.0f;
+		movpuertar += 5.0f;
 	if (glfwGetKey(window, GLFW_KEY_J) == GLFW_PRESS && 0 < movpuertar)
-		movpuertar -= 1.0f;
+		movpuertar -= 5.0f;
 	
 	// Backyard Door
 	if (glfwGetKey(window, GLFW_KEY_T) == GLFW_PRESS && 1.5 > movpuertat)
