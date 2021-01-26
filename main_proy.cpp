@@ -1,6 +1,7 @@
 /* -------------------------------------------------------- */
 /* ----------------   PROYECTO FINAL ---------------------- */
 /* --------------- COMPUTACION GRAFICA  ------------------- */
+/* -------------------  GRUPO: 04  ------------------------ */
 /* ------------------- SEMESTRE 2021-1 -------------------- */
 /* ----------------------- ALUMNO ------------------------- */
 /* -------------- MENDOZA RODRIGUEZ LUIS ALBERTO ---------- */
@@ -193,22 +194,22 @@ int main()
 		/*---------------------------------------------------------*/
 		staticShader.setVec3("viewPos", camera.Position);
 		staticShader.setVec3("dirLight.direction", lightDirection);
-		staticShader.setVec3("dirLight.ambient", glm::vec3(0.0f, 0.0f, 0.0f));
-		staticShader.setVec3("dirLight.diffuse", glm::vec3(1.0f, 1.0f, 1.0f));
-		staticShader.setVec3("dirLight.specular", glm::vec3(0.0f, 0.0f, 0.0f));
+		staticShader.setVec3("dirLight.ambient", glm::vec3(0.4f, 0.4f, 0.4f));
+		staticShader.setVec3("dirLight.diffuse", glm::vec3(0.4f, 0.4f, 0.4f));
+		staticShader.setVec3("dirLight.specular", glm::vec3(0.6f, 0.6f, 0.6f));
 
 		staticShader.setVec3("pointLight[0].position", lightPosition);
-		staticShader.setVec3("pointLight[0].ambient", glm::vec3(0.0f, 0.0f, 0.0f));
-		staticShader.setVec3("pointLight[0].diffuse", glm::vec3(1.0f, 1.0f, 1.0f));
-		staticShader.setVec3("pointLight[0].specular", glm::vec3(0.0f, 0.0f, 0.0f));
+		staticShader.setVec3("pointLight[0].ambient", glm::vec3(0.4f, 0.4f, 0.4f));
+		staticShader.setVec3("pointLight[0].diffuse", glm::vec3(0.4f, 0.4f, 0.4f));
+		staticShader.setVec3("pointLight[0].specular", glm::vec3(0.4f, 0.4f, 0.4f));
 		staticShader.setFloat("pointLight[0].constant", 0.8f);
 		staticShader.setFloat("pointLight[0].linear", 0.009f);
 		staticShader.setFloat("pointLight[0].quadratic", 0.032f);
 
 		staticShader.setVec3("pointLight[1].position", glm::vec3(0.0, 0.0f, 0.0f));
-		staticShader.setVec3("pointLight[1].ambient", glm::vec3(0.0f, 0.0f, 0.0f));
-		staticShader.setVec3("pointLight[1].diffuse", glm::vec3(0.0f, 0.0f, 0.0f));
-		staticShader.setVec3("pointLight[1].specular", glm::vec3(0.0f, 0.0f, 0.0f));
+		staticShader.setVec3("pointLight[1].ambient", glm::vec3(0.4f, 0.4f, 0.4f));
+		staticShader.setVec3("pointLight[1].diffuse", glm::vec3(0.4f, 0.4f, 0.4f));
+		staticShader.setVec3("pointLight[1].specular", glm::vec3(0.4f, 0.4f, 0.4f));
 		staticShader.setFloat("pointLight[1].constant", 1.0f);
 		staticShader.setFloat("pointLight[1].linear", 0.009f);
 		staticShader.setFloat("pointLight[1].quadratic", 0.032f);
@@ -374,33 +375,27 @@ void my_input(GLFWwindow* window)
 	if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS)
 	{
 		camera.Position.z -= 2.0f;
-		lightPosition.z -= 2.0f;
 	}	
 	if (glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS)
 	{
 		camera.Position.z += 2.0f;
-		lightPosition.z += 2.0f;
 	}
 	if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS)
 	{
 		camera.Position.x += 2.0f;
-		lightPosition.x += 2.0f;
 	}
 		
 	if (glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS) 
 	{
 		camera.Position.x -= 2.0f;
-		lightPosition.x -= 2.0f;
 	}
 	//if (glfwGetKey(window, GLFW_KEY_Q) == GLFW_PRESS)
 	//{
 	//	camera.Position.y += 2.0f;
-	//	lightPosition.y += 2.0f;
 	//}
 	//if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS)
 	//{
 	//	camera.Position.y -= 2.0f;
-	//	lightPosition.y -= 2.0f;
 	//}
 	if (glfwGetKey(window, GLFW_KEY_LEFT_SHIFT) == GLFW_PRESS)
 		camera.MovementSpeed = MovementSpeed * 2.0f;
@@ -410,26 +405,26 @@ void my_input(GLFWwindow* window)
 	/* ------------------------- */
 	// Front Door
 	if (glfwGetKey(window, GLFW_KEY_P) == GLFW_PRESS && 70 > movpuertap)
-		movpuertap += 6.0f;
+		movpuertap += 8.5f;
 	if (glfwGetKey(window, GLFW_KEY_L) == GLFW_PRESS && 0 < movpuertap)
-		movpuertap -= 6.0f;
+		movpuertap -= 8.5f;
 
 	//// Garage Door
 	if (glfwGetKey(window, GLFW_KEY_O) == GLFW_PRESS && 70 > movpuertag)
-		movpuertag += 3.0f;
+		movpuertag += 5.5f;
 	if (glfwGetKey(window, GLFW_KEY_K) == GLFW_PRESS && 0 < movpuertag)
-		movpuertag -= 3.0f;
+		movpuertag -= 5.5f;
 	
 	// Room Door
 	if (glfwGetKey(window, GLFW_KEY_I) == GLFW_PRESS && 90 > movpuertar)
-		movpuertar += 6.0f;
+		movpuertar += 10.0f;
 	if (glfwGetKey(window, GLFW_KEY_J) == GLFW_PRESS && 0 < movpuertar)
-		movpuertar -= 6.0f;
+		movpuertar -= 10.0f;
 	
 	// Backyard Door
-	if (glfwGetKey(window, GLFW_KEY_T) == GLFW_PRESS && 1.5 > movpuertat)
+	if (glfwGetKey(window, GLFW_KEY_Y) == GLFW_PRESS && 1.5 > movpuertat)
 		movpuertat += 0.5f;
-	if (glfwGetKey(window, GLFW_KEY_F) == GLFW_PRESS && 0 < movpuertat)
+	if (glfwGetKey(window, GLFW_KEY_G) == GLFW_PRESS && 0 < movpuertat)
 		movpuertat -= 0.5f;
 }
 
