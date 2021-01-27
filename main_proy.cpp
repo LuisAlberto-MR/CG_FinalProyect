@@ -422,9 +422,9 @@ void my_input(GLFWwindow* window)
 		movpuertar -= 10.0f;
 	
 	// Backyard Door
-	if (glfwGetKey(window, GLFW_KEY_Y) == GLFW_PRESS && 1.5 > movpuertat)
+	if (glfwGetKey(window, GLFW_KEY_U) == GLFW_PRESS && 1.5 > movpuertat)
 		movpuertat += 0.5f;
-	if (glfwGetKey(window, GLFW_KEY_G) == GLFW_PRESS && 0 < movpuertat)
+	if (glfwGetKey(window, GLFW_KEY_H) == GLFW_PRESS && 0 < movpuertat)
 		movpuertat -= 0.5f;
 }
 
